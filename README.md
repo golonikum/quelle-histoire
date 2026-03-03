@@ -17,11 +17,11 @@
 - Цель: Уверенное владение основными концепциями JS, которые используются в React.
 - Темы:
   - [Типы данных: Примитивы и объекты, особенности сравнения (== vs ===).](<https://github.com/golonikum/quelle-histoire/blob/main/02.%20JavaScript%20(Core)/01.%20%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.MD>)
-  - Области видимости: var, let, const, scope, hoisting.
-  - Замыкания (Closures): Принцип работы, примеры использования.
-  - this: Как определяется this в разных контекстах (глобальный, объектный метод, конструктор, стрелочные функции, bind, call, apply).
-  - Прототипы и Прототипное наследование: Как работают объекты в JS.
-  - Асинхронность: callbacks, Promises, async/await.
+  - [Области видимости: var, let, const, scope, hoisting.](<https://github.com/golonikum/quelle-histoire/blob/main/02.%20JavaScript%20(Core)/02.%20%D0%9E%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8.md>)
+  - [Замыкания (Closures): Принцип работы, примеры использования.](<https://github.com/golonikum/quelle-histoire/blob/main/02.%20JavaScript%20(Core)/03.%20%D0%97%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F%20(Closures).md>)
+  - [this: Как определяется this в разных контекстах (глобальный, объектный метод, конструктор, стрелочные функции, bind, call, apply).](<https://github.com/golonikum/quelle-histoire/blob/main/02.%20JavaScript%20(Core)/04.%20this%20-%20%D0%9A%D0%B0%D0%BA%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F%D0%B5%D1%82%D1%81%D1%8F%20this%20%D0%B2%20%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0%D1%85.md>)
+  - [Прототипы и Прототипное наследование: Как работают объекты в JS.](<https://github.com/golonikum/quelle-histoire/blob/main/02.%20JavaScript%20(Core)/05.%20%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D1%8B%20%D0%B8%20%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%BD%D0%BE%D0%B5%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.md>)
+  - [Асинхронность: callbacks, Promises, async/await.](<https://github.com/golonikum/quelle-histoire/blob/main/02.%20JavaScript%20(Core)/06.%20%D0%90%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20-%20callbacks%2C%20Promises%2C%20async%2C%20await.md>)
   - Event Loop: Цикл событий, очередь задач, микрозадачи.
   - ES6+ фичи: Стрелочные функции, деструктуризация, spread/rest операторы, классы, модули.
 - Ресурсы:
