@@ -121,6 +121,7 @@
   - Ключевые хуки: useQuery, useMutation.
   - Ключевые концепции: Query Client, Query Cache, Mutation Cache.
   - Преимущества: Уменьшает количество ручного управления состоянием API.
+- Redux Saga: основы (если есть время и желание углубиться)
 - Ресурсы:
   - Zustand Documentation: [https://zustand-v3.pmnd.rs/](https://zustand-v3.pmnd.rs/)
   - Tanstack Query Documentation: [https://tanstack.com/query/latest](https://tanstack.com/query/latest) (обязательно изучить примеры и концепции).
