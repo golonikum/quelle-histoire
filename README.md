@@ -67,7 +67,33 @@
   - TypeScript Handbook: [https://www.typescriptlang.org/docs/handbook/intro.html](https://www.typescriptlang.org/docs/handbook/intro.html) (официальная документация — лучший друг).
   - TypeScript Deep Dive: [https://basarat.gitbooks.io/typescript-book/content/](https://basarat.gitbooks.io/typescript-book/content/) (очень подробное руководство).
 
-## 5. Next.js
+## 5. Fullstack
+
+### 5.1 Как работает интернет (HTTP, Auth, Async).
+
+- **HTTP/HTTPS**: Методы (GET, POST, PUT, PATCH, DELETE), коды ответов (201, 204, 401, 403, 422, 500), заголовки (CORS, Cache-Control).
+- **Auth**:
+  - **JWT**: Как устроен, где хранить (HttpOnly Cookie vs LocalStorage).
+  - **Sessions**: В чем разница с токенами.
+  - **OAuth2 / OpenID Connect**: Общая схема работы.
+- **Асинхронщина**: Event Loop в Node.js, Promise.all vs Promise.allSettled, обработка "unhandled rejections".
+- **Структуры данных**: Когда использовать Map/Set вместо Object/Array, базовое понимание сложности (O-нотация).
+
+## 5.2 Слоистая архитектура и надежность Backend (NestJS / Express)
+
+- Темы:
+  - Layered Architecture: Четкое разделение:
+    - _Controllers_ (прием запросов, валидация).
+    - _Services/Providers_ (бизнес-логика).
+    - _Repositories/DAOs_ (работа с БД).
+  - NestJS Patterns: Dependency Injection (внедрение зависимостей), Модульность, Guards (для авторизации), Interceptors (для трансформации ответов).
+  - Middleware vs Guards: Когда использовать обычный экспрессовский мидлвар, а когда встроенные средства NestJS.
+  - Error Handling: Глобальные фильтры исключений. Нельзя просто «валить» сервер при ошибке.
+- Ресурсы:
+  - [Официальная документация NestJS](https://docs.nestjs.com/) (прочитай разделы Overview и Fundamentals).
+  - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) — библия бэкенд-разработки на JS.
+
+### 5.3 Next.js
 
 - Цель: Понимать основы Server-Side Rendering (SSR), Static Site Generation (SSG), Incremental Static Regeneration (ISR) и клиентского рендеринга (CSR) в Next.js.
 - Темы:
