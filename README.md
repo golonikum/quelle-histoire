@@ -79,7 +79,7 @@
 - **Асинхронщина**: Event Loop в Node.js, Promise.all vs Promise.allSettled, обработка "unhandled rejections".
 - **Структуры данных**: Когда использовать Map/Set вместо Object/Array, базовое понимание сложности (O-нотация).
 
-## 5.2 Слоистая архитектура и надежность Backend (NestJS / Express)
+### 5.2 Слоистая архитектура и надежность Backend (NestJS / Express)
 
 - Темы:
   - Layered Architecture: Четкое разделение:
