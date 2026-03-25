@@ -79,6 +79,7 @@
 - [01. Вопросы из собеседований.md](https://github.com/golonikum/quelle-histoire/blob/main/06.%20CSS%20%26%20UI%2F01.%20%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D0%B8%D0%B7%20%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9.md)
 - [02. CSS Container Queries.md](https://github.com/golonikum/quelle-histoire/blob/main/06.%20CSS%20%26%20UI%2F02.%20CSS%20Container%20Queries.md)
 - [03. CSS Grid Layout.md](https://github.com/golonikum/quelle-histoire/blob/main/06.%20CSS%20%26%20UI%2F03.%20CSS%20Grid%20Layout.md)
+- [04. Content Visibility.md](https://github.com/golonikum/quelle-histoire/blob/main/06.%20CSS%20%26%20UI%2F04.%20Content%20Visibility.md)
 - [10. Tailwind CSS.md](https://github.com/golonikum/quelle-histoire/blob/main/06.%20CSS%20%26%20UI%2F10.%20Tailwind%20CSS.md)
 
 ## 07. RxJS
