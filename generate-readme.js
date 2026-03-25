@@ -64,7 +64,9 @@ function generateReadme() {
       content += files
         .map((file) => {
           const name = path.basename(file);
-          return `- [${name}](./${file})\n`;
+          const pathname = encodeURIComponent(file);
+
+          return `- [${name}](https://github.com/golonikum/quelle-histoire/blob/main/${pathname})\n`;
         })
         .join("");
       content += "\n";
