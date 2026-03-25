@@ -1,7 +1,7 @@
 # Project Structure
 
 ## 02. JavaScript (Core)
-- [01. Типы данных](https://github.com/golonikum/quelle-histoire/blob/main/02.%20JavaScript%20(Core)/01.%20%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.MD)
+- [01. Типы данных.md](https://github.com/golonikum/quelle-histoire/blob/main/02.%20JavaScript%20(Core)/01.%20%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.MD)
 - [02. Области видимости.md](./02. JavaScript (Core)/02. Области видимости.md)
 - [03. Замыкания (Closures).md](./02. JavaScript (Core)/03. Замыкания (Closures).md)
 - [04. this - Как определяется this в разных контекстах.md](./02. JavaScript (Core)/04. this - Как определяется this в разных контекстах.md)
