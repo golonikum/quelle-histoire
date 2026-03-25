@@ -64,7 +64,7 @@ function generateReadme() {
       content += files
         .map((file) => {
           const name = path.basename(file);
-          return `- [\`${name}\`](./${file})\n`;
+          return `- [${name}](./${file})\n`;
         })
         .join("");
       content += "\n";
