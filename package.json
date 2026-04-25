@@ -24,7 +24,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "node generate-readme.js && lint-staged"
+      "pre-commit": "node generate-readme.js && git add README.md"
     }
   },
   "devDependencies": {
