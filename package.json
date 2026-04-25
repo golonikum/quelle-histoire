@@ -19,8 +19,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "husky": "^9.1.7",
-    "lint-staged": "^16.4.0"
+    "husky": "^9.1.7"
   },
   "devDependencies": {
     "husky": "^8.0.0"
