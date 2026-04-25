@@ -1,0 +1,33 @@
+{
+  "name": "quelle-histoire",
+  "version": "1.0.0",
+  "description": "- [01. Site Metrics.md](https://github.com/golonikum/quelle-histoire/blob/main/01.%20Web%20concepts%2F01.%20Site%20Metrics.md)",
+  "homepage": "https://github.com/golonikum/quelle-histoire#readme",
+  "bugs": {
+    "url": "https://github.com/golonikum/quelle-histoire/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golonikum/quelle-histoire.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "generate-readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "node generate-readme.js && lint-staged"
+    }
+  },
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
