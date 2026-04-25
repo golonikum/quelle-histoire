@@ -14,7 +14,7 @@ const ignoreDirs = new Set([
   ".next",
   "coverage",
 ]);
-const ignoreFiles = new Set(["generateReadme.js", "README.md", ".DS_Store"]);
+const ignoreFiles = new Set(["generate-readme.js", "README.md", ".DS_Store"]);
 
 // Функция для рекурсивного обхода директорий
 function getFilesRecursively(dir, fileList = []) {
