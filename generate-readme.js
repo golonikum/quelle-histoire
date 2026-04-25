@@ -6,6 +6,7 @@ const outputFile = "README.md";
 
 // Список исключений
 const ignoreDirs = new Set([
+  ".husky",
   ".git",
   "node_modules",
   ".idea",
@@ -14,7 +15,14 @@ const ignoreDirs = new Set([
   ".next",
   "coverage",
 ]);
-const ignoreFiles = new Set(["generate-readme.js", "README.md", ".DS_Store"]);
+const ignoreFiles = new Set([
+  "generate-readme.js",
+  "README.md",
+  ".DS_Store",
+  "package.json",
+  "yarn.lock",
+  ".gitignore",
+]);
 
 // Функция для рекурсивного обхода директорий
 function getFilesRecursively(dir, fileList = []) {
@@ -71,12 +79,6 @@ function generateReadme() {
         .join("");
       content += "\n";
     });
-
-    // allFiles.forEach((filePath) => {
-    //   const
-    //   // Создаем Markdown ссылку: [путь/к/файлу](путь/к/файлу)
-    //   content += `- [\`${filePath}\`](${filePath})\n`;
-    // });
 
     fs.writeFileSync(outputFile, content, "utf-8");
     console.log(`Успешно! Файл '${outputFile}' был создан.`);
