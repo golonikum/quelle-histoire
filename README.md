@@ -107,3 +107,6 @@
 - [01. Containers vs VMs.md](https://github.com/golonikum/quelle-histoire/blob/main/11.%20Containers%20(Docker%2C%20Kubernetes)%2F01.%20Containers%20vs%20VMs.md)
 - [02. Docker - Основные команды.md](https://github.com/golonikum/quelle-histoire/blob/main/11.%20Containers%20(Docker%2C%20Kubernetes)%2F02.%20Docker%20-%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B.md)
 
+## 12. System Design
+- [01. SOLID.md](https://github.com/golonikum/quelle-histoire/blob/main/12.%20System%20Design%2F01.%20SOLID.md)
+
