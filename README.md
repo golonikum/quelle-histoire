@@ -110,3 +110,7 @@
 ## 12. System Design
 - [01. SOLID.md](https://github.com/golonikum/quelle-histoire/blob/main/12.%20System%20Design%2F01.%20SOLID.md)
 
+## 13. Linux
+- [01. Установка дистрибутива.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F01.%20%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%B2%D0%B0.md)
+- [02. Основы Linux.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F02.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Linux.md)
+
