@@ -113,4 +113,5 @@
 ## 13. Linux
 - [01. Установка дистрибутива.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F01.%20%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%B2%D0%B0.md)
 - [02. Основы Linux.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F02.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Linux.md)
+- [03. Работа с файлами.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F03.%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8.md)
 
