@@ -115,6 +115,8 @@
 - [02. Основы Linux.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F02.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Linux.md)
 - [03. Работа с файлами.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F03.%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8.md)
 - [04. Текстовые редакторы.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F04.%20%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D1%8B.md)
+- [05. Network management variants.png](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F05.%20Network%20management%20variants.png)
+- [05. Network management.png](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F05.%20Network%20management.png)
 - [05. Сети.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F05.%20%D0%A1%D0%B5%D1%82%D0%B8.md)
 
 ## 14. Mastering ssh
