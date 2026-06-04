@@ -14,6 +14,7 @@ const ignoreDirs = new Set([
   "build",
   ".next",
   "coverage",
+  "images",
 ]);
 const ignoreFiles = new Set([
   "generate-readme.js",
