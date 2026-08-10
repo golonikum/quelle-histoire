@@ -136,6 +136,7 @@
 - [12. Технология Wi-Fi.md](https://github.com/golonikum/quelle-histoire/blob/main/15.%20%D0%A1%D0%B5%D1%82%D0%B8%2F12.%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20Wi-Fi.md)
 - [13. Технология IPv6.md](https://github.com/golonikum/quelle-histoire/blob/main/15.%20%D0%A1%D0%B5%D1%82%D0%B8%2F13.%20%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20IPv6.md)
 - [14. Прикладной уровень.md](https://github.com/golonikum/quelle-histoire/blob/main/15.%20%D0%A1%D0%B5%D1%82%D0%B8%2F14.%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9%20%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C.md)
+- [15. Основы работы веб-сервера и протокол HTTP.md](https://github.com/golonikum/quelle-histoire/blob/main/15.%20%D0%A1%D0%B5%D1%82%D0%B8%2F15.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%20%D0%B2%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%20HTTP.md)
 
 ## 16. Angular
 - [01. Краткий обзор Angular.md](https://github.com/golonikum/quelle-histoire/blob/main/16.%20Angular%2F01.%20%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B9%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%20Angular.md)
