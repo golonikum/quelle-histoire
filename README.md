@@ -117,6 +117,7 @@
 - [04. Текстовые редакторы.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F04.%20%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D1%8B.md)
 - [05. Сети.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F05.%20%D0%A1%D0%B5%D1%82%D0%B8.md)
 - [06. Локализация.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F06.%20%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.md)
+- [07. Менеджер пакетов.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F07.%20%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2.md)
 
 ## 14. Mastering ssh
 - [01. tun2socks.md](https://github.com/golonikum/quelle-histoire/blob/main/14.%20Mastering%20ssh%2F01.%20tun2socks.md)
@@ -141,4 +142,7 @@
 ## 16. Angular
 - [01. Краткий обзор Angular.md](https://github.com/golonikum/quelle-histoire/blob/main/16.%20Angular%2F01.%20%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B8%D0%B9%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%20Angular.md)
 - [02. Шаблоны в Angular.md](https://github.com/golonikum/quelle-histoire/blob/main/16.%20Angular%2F02.%20%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B%20%D0%B2%20Angular.md)
+
+## 17. Системное администрирование
+- [01. Выбор аппаратных и программных средств.md](https://github.com/golonikum/quelle-histoire/blob/main/17.%20%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%2F01.%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D1%85%20%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D1%8B%D1%85%20%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2.md)
 
