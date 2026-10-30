@@ -119,6 +119,7 @@
 - [06. Локализация.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F06.%20%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.md)
 - [07. Менеджер пакетов.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F07.%20%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%20%D0%BF%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2.md)
 - [08. Процессы.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F08.%20%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D1%8B.md)
+- [09. Настройка почтового сервера.md](https://github.com/golonikum/quelle-histoire/blob/main/13.%20Linux%2F09.%20%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D0%BF%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0.md)
 
 ## 14. Mastering ssh
 - [01. tun2socks.md](https://github.com/golonikum/quelle-histoire/blob/main/14.%20Mastering%20ssh%2F01.%20tun2socks.md)
